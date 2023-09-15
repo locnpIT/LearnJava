@@ -1,0 +1,20 @@
+T001 # Them Nhan Vien # 8
+T002 # Xoa Nhan Vien # 12
+T003 # Dang Nhap # 4
+T004 # Dang Ki # 6
+T005 # Kiem Tra Tai Khoan # 5
+T006 # Kiem Tra Hop Le # 4
+T007 # Bien Dich # 3
+T008 # Test Dang Nhap # 3
+T009 # Test Dang Xuat # 2
+T010 # Giao dien trang chu # 20
+T011 # Giao dien nguoi dung # 21
+T012 # Giao dien nhan vien # 13
+T013 # Phan quyen # 29
+T014 # Them nguoi dung # 9
+T015 # Xoa nguoi dung # 12
+T016 # Tao co so du lieu # 20
+T017 # Test giao dien # 12
+T018 # Dan layout # 22
+T019 # Test xoa nhan vien # 11
+T020 # Test them nhan vien # 10
